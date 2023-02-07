@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreateUser</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3bc758f-cb93-496f-bcf9-e1b79edfc346</testCaseGuid>
+   <variable>
+      <defaultValue>'shinta'</defaultValue>
+      <description></description>
+      <id>066035de-59e0-4269-bc25-35b3130a809e</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'2611wushinct@gmail.com'</defaultValue>
+      <description></description>
+      <id>0ae6e416-ecf1-4698-96c0-b9cbfe173dfd</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>
